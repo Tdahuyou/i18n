@@ -1,4 +1,4 @@
-# 0003. 术语 i18n、l10n、g11n
+# [0003. 术语](https://github.com/Tdahuyou/i18n/tree/main/0003.%20%E6%9C%AF%E8%AF%AD)
 
 ## 📝 summary
 
