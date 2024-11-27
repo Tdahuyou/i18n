@@ -1,5 +1,11 @@
 # [0001. i18n 基本使用](https://github.com/Tdahuyou/i18n/tree/main/0001.%20i18n%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
+<!-- region:toc -->
+
+<!-- endregion:toc -->
+
+## 📝 summary
+
 - i18n 基本使用
 - 理解 legacy 配置
 - 理解 locale 配置

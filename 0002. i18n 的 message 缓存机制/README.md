@@ -1,5 +1,11 @@
 # [0002. i18n 的 message 缓存机制](https://github.com/Tdahuyou/i18n/tree/main/0002.%20i18n%20%E7%9A%84%20message%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6)
 
+<!-- region:toc -->
+
+<!-- endregion:toc -->
+
+## 📝 summary
+
 - `i18n.setLocaleMessage(locale, message)`
 - `i18n.locale.value = 'target-lang'`
 - 如何实现国际化语言模块的按需加载
