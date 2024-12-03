@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "merge": "      node ./node_modules/tnotes   --mergeREADME         --repoName=i18n",
+        "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=i18n",
+        "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=i18n",
+        "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=i18n"
+    }
+}
